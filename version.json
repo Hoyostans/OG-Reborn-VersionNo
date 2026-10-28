@@ -2,31 +2,31 @@
   {
     "universal": [
       {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "message" : ""
       }
     ],
     "android": [
       {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "message" : ""
       }
     ],
     "windows": [
       {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "message" : ""
       }
     ],
     "linux": [
       {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "message" : ""
       }
     ],
     "mac": [
       {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "message" : ""
       }
     ]
